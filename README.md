@@ -124,12 +124,13 @@ Menu do sistema:
 1 → Iniciar sistema
 2 → Análise de gráficos
 
-👨‍🚀 Equipe
-Calebe Gonçalves Garcia de Souza
-Filipe Souza Nascimento
-Lucas Ribeiro Gesini
-Paulo Henrique Gonçalves Bueno
-Raphael de Freitas Silva
+👨‍🚀 Tripulação
 
+Nome:                                RM:
+Calebe Gonçalves Garcia de Souza     RM568743
+Filipe Souza Nascimento              RM573758
+Lucas Ribeiro Gesini                 RM569383
+Paulo Henrique Gonçalves Bueno       RM570456
+Raphael de Freitas Silva             RM570089
 
 O MGPEB representa um sistema embarcado capaz de tomar decisões críticas em tempo real, simulando desafios reais da exploração espacial.
