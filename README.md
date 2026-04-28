@@ -126,11 +126,13 @@ Menu do sistema:
 
 👨‍🚀 Tripulação
 
-Nome:                                RM:
-Calebe Gonçalves Garcia de Souza     RM568743
-Filipe Souza Nascimento              RM573758
-Lucas Ribeiro Gesini                 RM569383
-Paulo Henrique Gonçalves Bueno       RM570456
-Raphael de Freitas Silva             RM570089
+| Nome | RM |
+|---|---|
+| Calebe Gonçalves Garcia de Souza | RM568743 |
+| Filipe Souza Nascimento | RM573758 |
+| Lucas Ribeiro Gesini | RM569383 |
+| Paulo Henrique Gonçalves Bueno | RM570456 |
+| Raphael de Freitas Silva | RM570089 |
+
 
 O MGPEB representa um sistema embarcado capaz de tomar decisões críticas em tempo real, simulando desafios reais da exploração espacial.
